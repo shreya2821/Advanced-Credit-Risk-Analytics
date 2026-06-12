@@ -124,7 +124,7 @@ Advanced-Credit-Risk-Analytics
 ## 👩‍💼 Author
 
 ### Shreya Rawat
-**MBA Graduate 
+## MBA Graduate 
 
 
 ---
